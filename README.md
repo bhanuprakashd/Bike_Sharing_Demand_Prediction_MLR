@@ -1,5 +1,5 @@
 # Project Name
-> Demand Prediction for Shared Bikes
+ Demand Prediction for Shared Bikes
 
 
 ## Problem Statement
